@@ -1,0 +1,6 @@
+﻿  manager.cpp
+  system.cpp
+  teacher.cpp
+C:\Users\123\Desktop\demo\机房预约系统\机房预约系统\teacher.cpp(116,29): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码...
+  机房预约系统.vcxproj -> C:\Users\123\Desktop\demo\机房预约系统\Debug\机房预约系统.exe
